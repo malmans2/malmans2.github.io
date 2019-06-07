@@ -76,13 +76,27 @@
 
 &lt;p&gt;Several currents interact with each other and with the seafloor in Denmark Strait. We can disentangle different pathways by seeding particles in our model. This animation shows how the temperature of water particles changes during their journey:&lt;/p&gt;
 
-&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/296949375&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//player.vimeo.com/video/296949375&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
 
 &lt;p&gt;Much of my research consists of combining and comparing model output with observations. I’ve joined an exciting and unique cruise part of the Iceland-Greenland Seas Project (IGP), a multi-disciplinary program to study the air-sea interaction in winter:
+
+
+
 &lt;figure&gt;
-  &lt;img src=&#34;./IGP.jpg&#34; alt=&#34;IGP&#34;/&gt;
-  &lt;figcaption&gt;Photo courtesy of Amanda Kowalski.&lt;/figcaption&gt;
+
+&lt;img src=&#34;./IGP.jpg&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;Photo courtesy of Amanda Kowalski&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
 &lt;/figure&gt;&lt;/p&gt;
 </description>
     </item>
