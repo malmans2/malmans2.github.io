@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mattia Almansi</title>
+    <link>https://malmans2.github.io/project/</link>
+    <description>Recent content in Projects on Mattia Almansi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
+    
+	<atom:link href="https://malmans2.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Denmark Strait</title>
+      <link>https://malmans2.github.io/project/denmark-strait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/project/denmark-strait/</guid>
+      <description>Denmark Strait is a channel located between Iceland and Greenland. Although the Strait is quite narrow, it plays a key role in the global climate system. The water masses that pass through Denmark Strait contribute significantly to the redistribution of heat between the poles and the equator.
+Several currents interact with each other and with the seafloor in Denmark Strait. We can disentangle different pathways by seeding particles in our model.</description>
+    </item>
+    
+    <item>
+      <title>OceanSpy</title>
+      <link>https://malmans2.github.io/project/oceanspy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/project/oceanspy/</guid>
+      <description>A Python package to facilitate ocean model data analysis and visualization.</description>
+    </item>
+    
+  </channel>
+</rss>

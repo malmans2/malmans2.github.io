@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Mattia Almansi</title>
+    <link>https://malmans2.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Mattia Almansi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 22:54:48 +0000</lastBuildDate>
+    
+	<atom:link href="https://malmans2.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atlantic-origin overflow Water in the East Greenland Current</title>
+      <link>https://malmans2.github.io/publication/havik-subm/</link>
+      <pubDate>Thu, 06 Jun 2019 22:54:48 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/havik-subm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iceland Greenland Seas Project</title>
+      <link>https://malmans2.github.io/publication/igp-subm/</link>
+      <pubDate>Thu, 06 Jun 2019 22:54:48 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/igp-subm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OceanSpy: A Python package to facilitate ocean model data analysis and visualization</title>
+      <link>https://malmans2.github.io/publication/ocean-spy/</link>
+      <pubDate>Thu, 06 Jun 2019 22:47:14 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/ocean-spy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontogenesis and variability in Denmark Strait and its influence on overflow water</title>
+      <link>https://malmans2.github.io/publication/spall-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/spall-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Variability in the Circulation and Hydrography of the Denmark Strait Overflow from a High-Resolution Numerical Model</title>
+      <link>https://malmans2.github.io/publication/almansi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/almansi-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

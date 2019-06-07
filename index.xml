@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattia Almansi</title>
+    <link>https://malmans2.github.io/</link>
+    <description>Recent content on Mattia Almansi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 22:54:48 +0000</lastBuildDate>
+    
+	    <atom:link href="https://malmans2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atlantic-origin overflow Water in the East Greenland Current</title>
+      <link>https://malmans2.github.io/publication/havik-subm/</link>
+      <pubDate>Thu, 06 Jun 2019 22:54:48 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/havik-subm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Iceland Greenland Seas Project</title>
+      <link>https://malmans2.github.io/publication/igp-subm/</link>
+      <pubDate>Thu, 06 Jun 2019 22:54:48 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/igp-subm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OceanSpy: A Python package to facilitate ocean model data analysis and visualization</title>
+      <link>https://malmans2.github.io/publication/ocean-spy/</link>
+      <pubDate>Thu, 06 Jun 2019 22:47:14 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/ocean-spy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frontogenesis and variability in Denmark Strait and its influence on overflow water</title>
+      <link>https://malmans2.github.io/publication/spall-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/spall-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-Frequency Variability in the Circulation and Hydrography of the Denmark Strait Overflow from a High-Resolution Numerical Model</title>
+      <link>https://malmans2.github.io/publication/almansi-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/almansi-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamics and Dispersion Around a Rectangular Headland: the Promontorio of Portofino</title>
+      <link>https://malmans2.github.io/publication/mastersthesis/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/publication/mastersthesis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denmark Strait</title>
+      <link>https://malmans2.github.io/project/denmark-strait/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/project/denmark-strait/</guid>
+      <description>&lt;p&gt;Denmark Strait is a channel located between Iceland and Greenland. Although the Strait is quite narrow, it plays a key role in the global climate system. The water masses that pass through Denmark Strait contribute significantly to the redistribution of heat between the poles and the equator.&lt;/p&gt;
+
+&lt;p&gt;Several currents interact with each other and with the seafloor in Denmark Strait. We can disentangle different pathways by seeding particles in our model. This animation shows how the temperature of water particles changes during their journey:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;https://player.vimeo.com/video/296949375&#34; width=&#34;640&#34; height=&#34;360&#34; frameborder=&#34;0&#34; allow=&#34;autoplay; fullscreen&#34; allowfullscreen&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Much of my research consists of combining and comparing model output with observations. I’ve joined an exciting and unique cruise part of the Iceland-Greenland Seas Project (IGP), a multi-disciplinary program to study the air-sea interaction in winter:
+&lt;figure&gt;
+  &lt;img src=&#34;./IGP.jpg&#34; alt=&#34;IGP&#34;/&gt;
+  &lt;figcaption&gt;Photo courtesy of Amanda Kowalski.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OceanSpy</title>
+      <link>https://malmans2.github.io/project/oceanspy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://malmans2.github.io/project/oceanspy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
