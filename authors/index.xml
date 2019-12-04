@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Mattia Almansi</title>
@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; {year} Mattia Almansi</copyright>
-    <lastBuildDate>Tue, 22 Oct 2019 14:46:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2019 18:12:12 +0000</lastBuildDate>
     
 	<atom:link href="https://malmans2.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Mattia Almansi</title>
       <link>https://malmans2.github.io/authors/mattia-almansi/</link>
-      <pubDate>Tue, 22 Oct 2019 14:46:54 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2019 18:12:12 +0000</pubDate>
       
       <guid>https://malmans2.github.io/authors/mattia-almansi/</guid>
       <description></description>
@@ -24,7 +24,7 @@
     <item>
       <title>Renske Gelderloos</title>
       <link>https://malmans2.github.io/authors/renske-gelderloos/</link>
-      <pubDate>Tue, 22 Oct 2019 14:46:54 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2019 18:12:12 +0000</pubDate>
       
       <guid>https://malmans2.github.io/authors/renske-gelderloos/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Robert S. Pickart</title>
       <link>https://malmans2.github.io/authors/robert-s.-pickart/</link>
-      <pubDate>Tue, 22 Oct 2019 14:46:54 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2019 18:12:12 +0000</pubDate>
       
       <guid>https://malmans2.github.io/authors/robert-s.-pickart/</guid>
       <description></description>
@@ -42,7 +42,7 @@
     <item>
       <title>Thomas W. N. Haine</title>
       <link>https://malmans2.github.io/authors/thomas-w.-n.-haine/</link>
-      <pubDate>Tue, 22 Oct 2019 14:46:54 +0000</pubDate>
+      <pubDate>Wed, 04 Dec 2019 18:12:12 +0000</pubDate>
       
       <guid>https://malmans2.github.io/authors/thomas-w.-n.-haine/</guid>
       <description></description>
@@ -729,7 +729,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://malmans2.github.io/authors/admin/</guid>
-      <description>Hi there! My name is Mattia and I’m a physical oceanographer. I&amp;rsquo;m a PhD student at The Johns Hopkins University, Department of Earth and Planetary Sciences. My advisor is Prof. Tom Haine.
+      <description>Hi there! My name is Mattia and I’m a physical oceanographer. I&#39;m a PhD student at The Johns Hopkins University, Department of Earth and Planetary Sciences. My advisor is Prof. Tom Haine.
 I’m primarily interested in the dynamics governing the circulation of the Subpolar North Atlantic. To address the targets of my research, I run high-resolution numerical simulations and I combine model output with available observations.
 I’m leading the development of OceanSpy, a Python package to facilitate ocean model data analysis and visualization.</description>
     </item>
