@@ -1,22 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Mattia Almansi</title>
+    <title>Tags | Mattia Almansi</title>
     <link>https://malmans2.github.io/tags/</link>
-    <description>Recent content in Tags on Mattia Almansi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
-    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+      <atom:link href="https://malmans2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mattia Almansi</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/images/icon_huab240a7deea21f40953e02f65ee7d99a_120159_512x512_fill_lanczos_center_2.png</url>
+      <title>Tags</title>
+      <link>https://malmans2.github.io/tags/</link>
+    </image>
     
-	<atom:link href="https://malmans2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Boluses</title>
+      <link>https://malmans2.github.io/tags/boluses/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/tags/boluses/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Denmark Strait overflow</title>
+      <link>https://malmans2.github.io/tags/denmark-strait-overflow/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/tags/denmark-strait-overflow/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DSO cyclones</title>
+      <link>https://malmans2.github.io/tags/dso-cyclones/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/tags/dso-cyclones/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pulses</title>
+      <link>https://malmans2.github.io/tags/pulses/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/tags/pulses/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>other</title>
       <link>https://malmans2.github.io/tags/other/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/tags/other/</guid>
       <description></description>
     </item>
@@ -25,7 +56,6 @@
       <title>OceanSpy</title>
       <link>https://malmans2.github.io/tags/oceanspy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/tags/oceanspy/</guid>
       <description></description>
     </item>

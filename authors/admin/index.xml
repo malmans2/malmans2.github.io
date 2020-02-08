@@ -3,24 +3,14 @@
   <channel>
     <title>Mattia Almansi</title>
     <link>https://malmans2.github.io/authors/admin/</link>
-    <description>Recent content on Mattia Almansi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
-    
-	<atom:link href="https://malmans2.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title></title>
+      <atom:link href="https://malmans2.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattia Almansi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mattia Almansi</copyright>
+    <image>
+      <url>https://malmans2.github.io/images/icon_huab240a7deea21f40953e02f65ee7d99a_120159_512x512_fill_lanczos_center_2.png</url>
+      <title>Mattia Almansi</title>
       <link>https://malmans2.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/admin/</guid>
-      <description>Hi there! My name is Mattia and I’m a physical oceanographer. I&amp;rsquo;m a PhD student at The Johns Hopkins University, Department of Earth and Planetary Sciences. My advisor is Prof. Tom Haine.
-I’m primarily interested in the dynamics governing the circulation of the Subpolar North Atlantic. To address the targets of my research, I run high-resolution numerical simulations and I combine model output with available observations.
-I’m leading the development of OceanSpy, a Python package to facilitate ocean model data analysis and visualization.</description>
-    </item>
+    </image>
     
   </channel>
 </rss>

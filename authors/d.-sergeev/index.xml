@@ -1,22 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>D. Sergeev on Mattia Almansi</title>
+    <title>D. Sergeev | Mattia Almansi</title>
     <link>https://malmans2.github.io/authors/d.-sergeev/</link>
-    <description>Recent content in D. Sergeev on Mattia Almansi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
-    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://malmans2.github.io/authors/d.-sergeev/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://malmans2.github.io/authors/d.-sergeev/index.xml" rel="self" type="application/rss+xml" />
+    <description>D. Sergeev</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mattia Almansi</copyright><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/images/icon_huab240a7deea21f40953e02f65ee7d99a_120159_512x512_fill_lanczos_center_2.png</url>
+      <title>D. Sergeev</title>
+      <link>https://malmans2.github.io/authors/d.-sergeev/</link>
+    </image>
     
     <item>
       <title>The Iceland Greenland Seas Project</title>
       <link>https://malmans2.github.io/publication/renfrew-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/publication/renfrew-2019/</guid>
       <description></description>
     </item>

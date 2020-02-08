@@ -1,50 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Mattia Almansi</title>
+    <title>Authors | Mattia Almansi</title>
     <link>https://malmans2.github.io/authors/</link>
-    <description>Recent content in Authors on Mattia Almansi</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; {year} Mattia Almansi</copyright>
-    <lastBuildDate>Wed, 04 Dec 2019 18:24:23 +0000</lastBuildDate>
-    
-	<atom:link href="https://malmans2.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://malmans2.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mattia Almansi</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/images/icon_huab240a7deea21f40953e02f65ee7d99a_120159_512x512_fill_lanczos_center_2.png</url>
+      <title>Authors</title>
+      <link>https://malmans2.github.io/authors/</link>
+    </image>
     
     <item>
-      <title>Mattia Almansi</title>
-      <link>https://malmans2.github.io/authors/mattia-almansi/</link>
-      <pubDate>Wed, 04 Dec 2019 18:24:23 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/mattia-almansi/</guid>
+      <title>M. Almansi</title>
+      <link>https://malmans2.github.io/authors/m.-almansi/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/m.-almansi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Renske Gelderloos</title>
-      <link>https://malmans2.github.io/authors/renske-gelderloos/</link>
-      <pubDate>Wed, 04 Dec 2019 18:24:23 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/renske-gelderloos/</guid>
+      <title>R. Gelderloos</title>
+      <link>https://malmans2.github.io/authors/r.-gelderloos/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/r.-gelderloos/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Robert S. Pickart</title>
-      <link>https://malmans2.github.io/authors/robert-s.-pickart/</link>
-      <pubDate>Wed, 04 Dec 2019 18:24:23 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/robert-s.-pickart/</guid>
+      <title>R.S. Pickart</title>
+      <link>https://malmans2.github.io/authors/r.s.-pickart/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/r.s.-pickart/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Thomas W. N. Haine</title>
-      <link>https://malmans2.github.io/authors/thomas-w.-n.-haine/</link>
-      <pubDate>Wed, 04 Dec 2019 18:24:23 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/thomas-w.-n.-haine/</guid>
+      <title>T.W.N. Haine</title>
+      <link>https://malmans2.github.io/authors/t.w.n.-haine/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/t.w.n.-haine/</guid>
       <description></description>
     </item>
     
@@ -52,7 +48,6 @@
       <title>A. Brakstad</title>
       <link>https://malmans2.github.io/authors/a.-brakstad/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-brakstad/</guid>
       <description></description>
     </item>
@@ -61,7 +56,6 @@
       <title>A. D. Elvidge</title>
       <link>https://malmans2.github.io/authors/a.-d.-elvidge/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-d.-elvidge/</guid>
       <description></description>
     </item>
@@ -70,7 +64,6 @@
       <title>A. K. Peterson</title>
       <link>https://malmans2.github.io/authors/a.-k.-peterson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-k.-peterson/</guid>
       <description></description>
     </item>
@@ -79,7 +72,6 @@
       <title>A. Macrander</title>
       <link>https://malmans2.github.io/authors/a.-macrander/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-macrander/</guid>
       <description></description>
     </item>
@@ -88,7 +80,6 @@
       <title>A. Mitchell</title>
       <link>https://malmans2.github.io/authors/a.-mitchell/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-mitchell/</guid>
       <description></description>
     </item>
@@ -97,7 +88,6 @@
       <title>A. Pacini</title>
       <link>https://malmans2.github.io/authors/a.-pacini/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-pacini/</guid>
       <description></description>
     </item>
@@ -106,7 +96,6 @@
       <title>A. Seidl</title>
       <link>https://malmans2.github.io/authors/a.-seidl/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-seidl/</guid>
       <description></description>
     </item>
@@ -115,7 +104,6 @@
       <title>A. Terpstra</title>
       <link>https://malmans2.github.io/authors/a.-terpstra/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-terpstra/</guid>
       <description></description>
     </item>
@@ -124,7 +112,6 @@
       <title>A. Touzeau</title>
       <link>https://malmans2.github.io/authors/a.-touzeau/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-touzeau/</guid>
       <description></description>
     </item>
@@ -133,17 +120,15 @@
       <title>A. Weiss</title>
       <link>https://malmans2.github.io/authors/a.-weiss/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/a.-weiss/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ali H. Siddiqui</title>
-      <link>https://malmans2.github.io/authors/ali-h.-siddiqui/</link>
+      <title>Ali Siddiqui</title>
+      <link>https://malmans2.github.io/authors/ali-siddiqui/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/ali-h.-siddiqui/</guid>
+      <guid>https://malmans2.github.io/authors/ali-siddiqui/</guid>
       <description></description>
     </item>
     
@@ -151,7 +136,6 @@
       <title>Atousa Saberi</title>
       <link>https://malmans2.github.io/authors/atousa-saberi/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/atousa-saberi/</guid>
       <description></description>
     </item>
@@ -160,7 +144,6 @@
       <title>B. J. Brooks</title>
       <link>https://malmans2.github.io/authors/b.-j.-brooks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/b.-j.-brooks/</guid>
       <description></description>
     </item>
@@ -169,7 +152,6 @@
       <title>B. Palmason</title>
       <link>https://malmans2.github.io/authors/b.-palmason/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/b.-palmason/</guid>
       <description></description>
     </item>
@@ -178,7 +160,6 @@
       <title>C. Barrell</title>
       <link>https://malmans2.github.io/authors/c.-barrell/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/c.-barrell/</guid>
       <description></description>
     </item>
@@ -187,7 +168,6 @@
       <title>C. Duscha</title>
       <link>https://malmans2.github.io/authors/c.-duscha/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/c.-duscha/</guid>
       <description></description>
     </item>
@@ -196,7 +176,6 @@
       <title>C. Payne</title>
       <link>https://malmans2.github.io/authors/c.-payne/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/c.-payne/</guid>
       <description></description>
     </item>
@@ -205,7 +184,6 @@
       <title>D. Sergeev</title>
       <link>https://malmans2.github.io/authors/d.-sergeev/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/d.-sergeev/</guid>
       <description></description>
     </item>
@@ -214,7 +192,6 @@
       <title>D. Smith</title>
       <link>https://malmans2.github.io/authors/d.-smith/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/d.-smith/</guid>
       <description></description>
     </item>
@@ -223,7 +200,6 @@
       <title>Dana Mastropole</title>
       <link>https://malmans2.github.io/authors/dana-mastropole/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/dana-mastropole/</guid>
       <description></description>
     </item>
@@ -232,7 +208,6 @@
       <title>E. Jeansson</title>
       <link>https://malmans2.github.io/authors/e.-jeansson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/e.-jeansson/</guid>
       <description></description>
     </item>
@@ -241,7 +216,6 @@
       <title>E. M. Bruvik</title>
       <link>https://malmans2.github.io/authors/e.-m.-bruvik/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/e.-m.-bruvik/</guid>
       <description></description>
     </item>
@@ -250,7 +224,6 @@
       <title>E. W. Kolstad</title>
       <link>https://malmans2.github.io/authors/e.-w.-kolstad/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/e.-w.-kolstad/</guid>
       <description></description>
     </item>
@@ -259,7 +232,6 @@
       <title>F. Bahr</title>
       <link>https://malmans2.github.io/authors/f.-bahr/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/f.-bahr/</guid>
       <description></description>
     </item>
@@ -268,7 +240,6 @@
       <title>G. N. Petersen</title>
       <link>https://malmans2.github.io/authors/g.-n.-petersen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/g.-n.-petersen/</guid>
       <description></description>
     </item>
@@ -277,7 +248,6 @@
       <title>G. Tupper</title>
       <link>https://malmans2.github.io/authors/g.-tupper/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/g.-tupper/</guid>
       <description></description>
     </item>
@@ -286,7 +256,6 @@
       <title>G. W. K. Moore</title>
       <link>https://malmans2.github.io/authors/g.-w.-k.-moore/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/g.-w.-k.-moore/</guid>
       <description></description>
     </item>
@@ -295,7 +264,6 @@
       <title>H. M. Golid</title>
       <link>https://malmans2.github.io/authors/h.-m.-golid/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/h.-m.-golid/</guid>
       <description></description>
     </item>
@@ -304,7 +272,6 @@
       <title>H. Olafsson</title>
       <link>https://malmans2.github.io/authors/h.-olafsson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/h.-olafsson/</guid>
       <description></description>
     </item>
@@ -313,7 +280,6 @@
       <title>H. Sodemann</title>
       <link>https://malmans2.github.io/authors/h.-sodemann/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/h.-sodemann/</guid>
       <description></description>
     </item>
@@ -322,7 +288,6 @@
       <title>H. Søiland</title>
       <link>https://malmans2.github.io/authors/h.-s%C3%B8iland/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/h.-s%C3%B8iland/</guid>
       <description></description>
     </item>
@@ -331,7 +296,6 @@
       <title>H. Valdimarsson</title>
       <link>https://malmans2.github.io/authors/h.-valdimarsson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/h.-valdimarsson/</guid>
       <description></description>
     </item>
@@ -340,7 +304,6 @@
       <title>I. A. Renfrew</title>
       <link>https://malmans2.github.io/authors/i.-a.-renfrew/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/i.-a.-renfrew/</guid>
       <description></description>
     </item>
@@ -349,7 +312,6 @@
       <title>I. Fer</title>
       <link>https://malmans2.github.io/authors/i.-fer/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/i.-fer/</guid>
       <description></description>
     </item>
@@ -358,7 +320,6 @@
       <title>I. Hessevik</title>
       <link>https://malmans2.github.io/authors/i.-hessevik/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/i.-hessevik/</guid>
       <description></description>
     </item>
@@ -367,7 +328,6 @@
       <title>I. M. Brooks</title>
       <link>https://malmans2.github.io/authors/i.-m.-brooks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/i.-m.-brooks/</guid>
       <description></description>
     </item>
@@ -376,7 +336,6 @@
       <title>J. Huang</title>
       <link>https://malmans2.github.io/authors/j.-huang/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/j.-huang/</guid>
       <description></description>
     </item>
@@ -385,7 +344,6 @@
       <title>J. K. Brooke</title>
       <link>https://malmans2.github.io/authors/j.-k.-brooke/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/j.-k.-brooke/</guid>
       <description></description>
     </item>
@@ -394,7 +352,6 @@
       <title>J. Kristiansen</title>
       <link>https://malmans2.github.io/authors/j.-kristiansen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/j.-kristiansen/</guid>
       <description></description>
     </item>
@@ -403,7 +360,6 @@
       <title>J. O. Pope</title>
       <link>https://malmans2.github.io/authors/j.-o.-pope/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/j.-o.-pope/</guid>
       <description></description>
     </item>
@@ -412,7 +368,6 @@
       <title>J. Reuder</title>
       <link>https://malmans2.github.io/authors/j.-reuder/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/j.-reuder/</guid>
       <description></description>
     </item>
@@ -421,7 +376,6 @@
       <title>K. D. Williams</title>
       <link>https://malmans2.github.io/authors/k.-d.-williams/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/k.-d.-williams/</guid>
       <description></description>
     </item>
@@ -430,7 +384,6 @@
       <title>K. Jackson</title>
       <link>https://malmans2.github.io/authors/k.-jackson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/k.-jackson/</guid>
       <description></description>
     </item>
@@ -439,7 +392,6 @@
       <title>K. Konstali</title>
       <link>https://malmans2.github.io/authors/k.-konstali/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/k.-konstali/</guid>
       <description></description>
     </item>
@@ -448,7 +400,6 @@
       <title>K. Kvalsund</title>
       <link>https://malmans2.github.io/authors/k.-kvalsund/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/k.-kvalsund/</guid>
       <description></description>
     </item>
@@ -457,7 +408,6 @@
       <title>K. Våge</title>
       <link>https://malmans2.github.io/authors/k.-v%C3%A5ge/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/k.-v%C3%A5ge/</guid>
       <description></description>
     </item>
@@ -466,7 +416,6 @@
       <title>Kjetil Våge</title>
       <link>https://malmans2.github.io/authors/kjetil-v%C3%A5ge/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/kjetil-v%C3%A5ge/</guid>
       <description></description>
     </item>
@@ -475,7 +424,6 @@
       <title>L. Houghton</title>
       <link>https://malmans2.github.io/authors/l.-houghton/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/l.-houghton/</guid>
       <description></description>
     </item>
@@ -484,7 +432,6 @@
       <title>L. Papritz</title>
       <link>https://malmans2.github.io/authors/l.-papritz/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/l.-papritz/</guid>
       <description></description>
     </item>
@@ -493,7 +440,6 @@
       <title>L. T. McRaven</title>
       <link>https://malmans2.github.io/authors/l.-t.-mcraven/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/l.-t.-mcraven/</guid>
       <description></description>
     </item>
@@ -502,7 +448,6 @@
       <title>Lisbeth Håvik</title>
       <link>https://malmans2.github.io/authors/lisbeth-h%C3%A5vik/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/lisbeth-h%C3%A5vik/</guid>
       <description></description>
     </item>
@@ -511,17 +456,7 @@
       <title>M. A. Spall</title>
       <link>https://malmans2.github.io/authors/m.-a.-spall/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/m.-a.-spall/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>M. Almansi</title>
-      <link>https://malmans2.github.io/authors/m.-almansi/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://malmans2.github.io/authors/m.-almansi/</guid>
       <description></description>
     </item>
     
@@ -529,7 +464,6 @@
       <title>M. D. Pérez-Hernández</title>
       <link>https://malmans2.github.io/authors/m.-d.-p%C3%A9rez-hern%C3%A1ndez/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/m.-d.-p%C3%A9rez-hern%C3%A1ndez/</guid>
       <description></description>
     </item>
@@ -538,7 +472,6 @@
       <title>M. E. Brooks</title>
       <link>https://malmans2.github.io/authors/m.-e.-brooks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/m.-e.-brooks/</guid>
       <description></description>
     </item>
@@ -547,7 +480,6 @@
       <title>M. Hallerstig</title>
       <link>https://malmans2.github.io/authors/m.-hallerstig/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/m.-hallerstig/</guid>
       <description></description>
     </item>
@@ -556,7 +488,6 @@
       <title>M. Jonassen</title>
       <link>https://malmans2.github.io/authors/m.-jonassen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/m.-jonassen/</guid>
       <description></description>
     </item>
@@ -565,8 +496,15 @@
       <title>M. N. Pisareva</title>
       <link>https://malmans2.github.io/authors/m.-n.-pisareva/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/m.-n.-pisareva/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mattia Almansi</title>
+      <link>https://malmans2.github.io/authors/mattia-almansi/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/mattia-almansi/</guid>
       <description></description>
     </item>
     
@@ -574,7 +512,6 @@
       <title>Michael A. Spall</title>
       <link>https://malmans2.github.io/authors/michael-a.-spall/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/michael-a.-spall/</guid>
       <description></description>
     </item>
@@ -583,7 +520,6 @@
       <title>P. Lin</title>
       <link>https://malmans2.github.io/authors/p.-lin/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/p.-lin/</guid>
       <description></description>
     </item>
@@ -592,7 +528,6 @@
       <title>Peigen Lin</title>
       <link>https://malmans2.github.io/authors/peigen-lin/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/peigen-lin/</guid>
       <description></description>
     </item>
@@ -601,7 +536,6 @@
       <title>R. Ladkin</title>
       <link>https://malmans2.github.io/authors/r.-ladkin/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/r.-ladkin/</guid>
       <description></description>
     </item>
@@ -610,8 +544,23 @@
       <title>R. S. Pickart</title>
       <link>https://malmans2.github.io/authors/r.-s.-pickart/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/r.-s.-pickart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Renske Gelderloos</title>
+      <link>https://malmans2.github.io/authors/renske-gelderloos/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/renske-gelderloos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert S. Pickart</title>
+      <link>https://malmans2.github.io/authors/robert-s.-pickart/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/robert-s.-pickart/</guid>
       <description></description>
     </item>
     
@@ -619,7 +568,6 @@
       <title>S. Jónsson</title>
       <link>https://malmans2.github.io/authors/s.-j%C3%B3nsson/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/s.-j%C3%B3nsson/</guid>
       <description></description>
     </item>
@@ -628,7 +576,6 @@
       <title>S. Semper</title>
       <link>https://malmans2.github.io/authors/s.-semper/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/s.-semper/</guid>
       <description></description>
     </item>
@@ -637,7 +584,6 @@
       <title>S. Skjelsvik</title>
       <link>https://malmans2.github.io/authors/s.-skjelsvik/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/s.-skjelsvik/</guid>
       <description></description>
     </item>
@@ -646,7 +592,6 @@
       <title>S. Waterman</title>
       <link>https://malmans2.github.io/authors/s.-waterman/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/s.-waterman/</guid>
       <description></description>
     </item>
@@ -655,7 +600,6 @@
       <title>S. Zhou</title>
       <link>https://malmans2.github.io/authors/s.-zhou/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/s.-zhou/</guid>
       <description></description>
     </item>
@@ -664,7 +608,6 @@
       <title>T. J. Bracegirdle</title>
       <link>https://malmans2.github.io/authors/t.-j.-bracegirdle/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/t.-j.-bracegirdle/</guid>
       <description></description>
     </item>
@@ -673,7 +616,6 @@
       <title>T. Lachlan-Cope</title>
       <link>https://malmans2.github.io/authors/t.-lachlan-cope/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/t.-lachlan-cope/</guid>
       <description></description>
     </item>
@@ -682,8 +624,23 @@
       <title>T. Spengler</title>
       <link>https://malmans2.github.io/authors/t.-spengler/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/t.-spengler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas Haine</title>
+      <link>https://malmans2.github.io/authors/thomas-haine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/thomas-haine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas W. N. Haine</title>
+      <link>https://malmans2.github.io/authors/thomas-w.-n.-haine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/authors/thomas-w.-n.-haine/</guid>
       <description></description>
     </item>
     
@@ -691,7 +648,6 @@
       <title>Wilken-Jon von Appen</title>
       <link>https://malmans2.github.io/authors/wilken-jon-von-appen/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/wilken-jon-von-appen/</guid>
       <description></description>
     </item>
@@ -700,7 +656,6 @@
       <title>X. Yang</title>
       <link>https://malmans2.github.io/authors/x.-yang/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/x.-yang/</guid>
       <description></description>
     </item>
@@ -709,7 +664,6 @@
       <title>Y. Weng</title>
       <link>https://malmans2.github.io/authors/y.-weng/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/y.-weng/</guid>
       <description></description>
     </item>
@@ -718,7 +672,6 @@
       <title>Marcello G. Magaldi</title>
       <link>https://malmans2.github.io/authors/marcello-g.-magaldi/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/marcello-g.-magaldi/</guid>
       <description></description>
     </item>
@@ -727,11 +680,11 @@
       <title></title>
       <link>https://malmans2.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://malmans2.github.io/authors/admin/</guid>
-      <description>Hi there! My name is Mattia and I’m a physical oceanographer. I&amp;rsquo;m a PhD student at The Johns Hopkins University, Department of Earth and Planetary Sciences. My advisor is Prof. Tom Haine.
-I’m primarily interested in the dynamics governing the circulation of the Subpolar North Atlantic. To address the targets of my research, I run high-resolution numerical simulations and I combine model output with available observations.
-I’m leading the development of OceanSpy, a Python package to facilitate ocean model data analysis and visualization.</description>
+      <description>&lt;p&gt;Hi there! My name is Mattia and I’m a physical oceanographer. I&amp;rsquo;m a PhD student at The Johns Hopkins University, Department of Earth and Planetary Sciences. My advisor is Prof. Tom Haine.&lt;/p&gt;
+&lt;p&gt;I’m primarily interested in the dynamics governing the circulation of the Subpolar North Atlantic. To address the targets of my research, I run high-resolution numerical simulations and I combine model output with available observations.&lt;/p&gt;
+&lt;p&gt;I’m leading the development of &lt;a href=&#34;https://oceanspy.readthedocs.io&#34;&gt;OceanSpy&lt;/a&gt;, a Python package to facilitate ocean model data analysis and visualization.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
