@@ -32,11 +32,16 @@
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure id=&#34;figure-adapted-from-almansi-et-al-2020&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;./almansi2020.jpg&#34; data-caption=&#34;Adapted from Almansi et al., 2020&#34;&gt;
-&lt;img data-src=&#34;./almansi2020.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;./almansi2020.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
   
@@ -68,11 +73,16 @@
 
 
 
-&lt;figure&gt;
+
+
+&lt;figure id=&#34;figure-photo-courtesy-of-amanda-kowalski&#34;&gt;
 
 
   &lt;a data-fancybox=&#34;&#34; href=&#34;./IGP.jpg&#34; data-caption=&#34;Photo courtesy of Amanda Kowalski&#34;&gt;
-&lt;img data-src=&#34;./IGP.jpg&#34; class=&#34;lazyload&#34; alt=&#34;&#34; &gt;&lt;/a&gt;
+
+
+  &lt;img src=&#34;./IGP.jpg&#34; alt=&#34;&#34;  &gt;
+&lt;/a&gt;
 
 
   
