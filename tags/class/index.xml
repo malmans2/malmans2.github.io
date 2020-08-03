@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLASS | Mattia Almansi</title>
+    <link>https://malmans2.github.io/tags/class/</link>
+      <atom:link href="https://malmans2.github.io/tags/class/index.xml" rel="self" type="application/rss+xml" />
+    <description>CLASS</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2020 Mattia Almansi</copyright>
+    <image>
+      <url>https://malmans2.github.io/images/icon_huab240a7deea21f40953e02f65ee7d99a_120159_512x512_fill_lanczos_center_2.png</url>
+      <title>CLASS</title>
+      <link>https://malmans2.github.io/tags/class/</link>
+    </image>
+    
+    <item>
+      <title>CLASS</title>
+      <link>https://malmans2.github.io/project/class/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/project/class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
