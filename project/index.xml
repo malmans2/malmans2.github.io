@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Mattia Almansi</title>
+    <link>https://malmans2.github.io/project/</link>
+      <atom:link href="https://malmans2.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 21:19:07 +0100</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/media/avatar.jpg</url>
+      <title>Projects</title>
+      <link>https://malmans2.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>JMMP</title>
+      <link>https://malmans2.github.io/project/jmmp/</link>
+      <pubDate>Sat, 24 Oct 2020 21:19:07 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/jmmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immerse</title>
+      <link>https://malmans2.github.io/project/immerse/</link>
+      <pubDate>Sat, 24 Oct 2020 20:52:14 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/immerse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLASS</title>
+      <link>https://malmans2.github.io/project/class/</link>
+      <pubDate>Sat, 24 Oct 2020 20:52:10 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poseidon</title>
+      <link>https://malmans2.github.io/project/poseidon/</link>
+      <pubDate>Sat, 24 Oct 2020 20:52:01 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/poseidon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IGP</title>
+      <link>https://malmans2.github.io/project/igp/</link>
+      <pubDate>Sat, 24 Oct 2020 20:51:56 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/igp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OceanSpy</title>
+      <link>https://malmans2.github.io/project/oceanspy/</link>
+      <pubDate>Sat, 24 Oct 2020 20:51:53 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/oceanspy/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

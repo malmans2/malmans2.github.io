@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jie Huang | Mattia Almansi</title>
+    <link>https://malmans2.github.io/author/jie-huang/</link>
+      <atom:link href="https://malmans2.github.io/author/jie-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jie Huang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 19:41:46 +0100</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/media/avatar.jpg</url>
+      <title>Jie Huang</title>
+      <link>https://malmans2.github.io/author/jie-huang/</link>
+    </image>
+    
+    <item>
+      <title>Lateral redistribution of heat and salt in the Nordic Seas</title>
+      <link>https://malmans2.github.io/publication/spallsubm/</link>
+      <pubDate>Sat, 24 Oct 2020 19:41:46 +0100</pubDate>
+      <guid>https://malmans2.github.io/publication/spallsubm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

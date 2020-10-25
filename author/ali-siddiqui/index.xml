@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ali Siddiqui | Mattia Almansi</title>
+    <link>https://malmans2.github.io/author/ali-siddiqui/</link>
+      <atom:link href="https://malmans2.github.io/author/ali-siddiqui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ali Siddiqui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 19:41:40 +0100</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/media/avatar.jpg</url>
+      <title>Ali Siddiqui</title>
+      <link>https://malmans2.github.io/author/ali-siddiqui/</link>
+    </image>
+    
+    <item>
+      <title>Computational Oceanography is Coming of Age</title>
+      <link>https://malmans2.github.io/publication/hainesubm/</link>
+      <pubDate>Sat, 24 Oct 2020 19:41:40 +0100</pubDate>
+      <guid>https://malmans2.github.io/publication/hainesubm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
