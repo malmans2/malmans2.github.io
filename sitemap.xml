@@ -108,17 +108,17 @@
   </url>
   
   <url>
-    <loc>https://malmans2.github.io/publication/hainesubm/</loc>
-    <lastmod>2020-10-24T19:41:40+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://malmans2.github.io/author/dmitry-medvedev/</loc>
     <lastmod>2020-10-24T19:41:40+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://malmans2.github.io/author/gerard-lemson/</loc>
+    <lastmod>2020-10-24T19:41:40+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://malmans2.github.io/publication/hainesubm/</loc>
     <lastmod>2020-10-24T19:41:40+01:00</lastmod>
   </url>
   
@@ -140,6 +140,10 @@
   <url>
     <loc>https://malmans2.github.io/publication/gelderloossubm/</loc>
     <lastmod>2020-10-24T19:41:35+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://malmans2.github.io/admin/</loc>
   </url>
   
   <url>

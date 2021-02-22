@@ -7,7 +7,7 @@
     <description>Mattia Almansi</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 21:19:07 +0100</lastBuildDate>
     <image>
-      <url>https://malmans2.github.io/media/avatar.jpg</url>
+      <url>https://malmans2.github.io/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Mattia Almansi</title>
       <link>https://malmans2.github.io/</link>
     </image>
@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>Computational Oceanography is Coming of Age</title>
+      <title>Is Computational Oceanography Coming of Age?</title>
       <link>https://malmans2.github.io/publication/hainesubm/</link>
       <pubDate>Sat, 24 Oct 2020 19:41:40 +0100</pubDate>
       <guid>https://malmans2.github.io/publication/hainesubm/</guid>
@@ -81,6 +81,14 @@
       <link>https://malmans2.github.io/publication/gelderloossubm/</link>
       <pubDate>Sat, 24 Oct 2020 19:41:35 +0100</pubDate>
       <guid>https://malmans2.github.io/publication/gelderloossubm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://malmans2.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/admin/config.yml</guid>
       <description></description>
     </item>
     
