@@ -1,1 +1,96 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mattia Almansi</title><link>https://malmans2.github.io/</link><atom:link href="https://malmans2.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Mattia Almansi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 21:19:07 +0100</lastBuildDate><image><url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url><title>Mattia Almansi</title><link>https://malmans2.github.io/</link></image><item><title>JMMP</title><link>https://malmans2.github.io/project/jmmp/</link><pubDate>Sat, 24 Oct 2020 21:19:07 +0100</pubDate><guid>https://malmans2.github.io/project/jmmp/</guid><description/></item><item><title>immerse</title><link>https://malmans2.github.io/project/immerse/</link><pubDate>Sat, 24 Oct 2020 20:52:14 +0100</pubDate><guid>https://malmans2.github.io/project/immerse/</guid><description/></item><item><title>CLASS</title><link>https://malmans2.github.io/project/class/</link><pubDate>Sat, 24 Oct 2020 20:52:10 +0100</pubDate><guid>https://malmans2.github.io/project/class/</guid><description/></item><item><title>Poseidon</title><link>https://malmans2.github.io/project/poseidon/</link><pubDate>Sat, 24 Oct 2020 20:52:01 +0100</pubDate><guid>https://malmans2.github.io/project/poseidon/</guid><description/></item><item><title>IGP</title><link>https://malmans2.github.io/project/igp/</link><pubDate>Sat, 24 Oct 2020 20:51:56 +0100</pubDate><guid>https://malmans2.github.io/project/igp/</guid><description/></item><item><title>OceanSpy</title><link>https://malmans2.github.io/project/oceanspy/</link><pubDate>Sat, 24 Oct 2020 20:51:53 +0100</pubDate><guid>https://malmans2.github.io/project/oceanspy/</guid><description/></item><item><title>Lateral redistribution of heat and salt in the Nordic Seas</title><link>https://malmans2.github.io/publication/spallsubm/</link><pubDate>Sat, 24 Oct 2020 19:41:46 +0100</pubDate><guid>https://malmans2.github.io/publication/spallsubm/</guid><description/></item><item><title>Is Computational Oceanography Coming of Age?</title><link>https://malmans2.github.io/publication/hainesubm/</link><pubDate>Sat, 24 Oct 2020 19:41:40 +0100</pubDate><guid>https://malmans2.github.io/publication/hainesubm/</guid><description/></item><item><title>Coastal Trapped Waves and other subinertial variability along the Southeast Greenland Coast in a realistic numerical simulation</title><link>https://malmans2.github.io/publication/gelderloossubm/</link><pubDate>Sat, 24 Oct 2020 19:41:35 +0100</pubDate><guid>https://malmans2.github.io/publication/gelderloossubm/</guid><description/></item><item><title/><link>https://malmans2.github.io/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://malmans2.github.io/admin/config.yml</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mattia Almansi</title>
+    <link>https://malmans2.github.io/</link>
+      <atom:link href="https://malmans2.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mattia Almansi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 21:19:07 +0100</lastBuildDate>
+    <image>
+      <url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url>
+      <title>Mattia Almansi</title>
+      <link>https://malmans2.github.io/</link>
+    </image>
+    
+    <item>
+      <title>JMMP</title>
+      <link>https://malmans2.github.io/project/jmmp/</link>
+      <pubDate>Sat, 24 Oct 2020 21:19:07 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/jmmp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>immerse</title>
+      <link>https://malmans2.github.io/project/immerse/</link>
+      <pubDate>Sat, 24 Oct 2020 20:52:14 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/immerse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLASS</title>
+      <link>https://malmans2.github.io/project/class/</link>
+      <pubDate>Sat, 24 Oct 2020 20:52:10 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/class/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poseidon</title>
+      <link>https://malmans2.github.io/project/poseidon/</link>
+      <pubDate>Sat, 24 Oct 2020 20:52:01 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/poseidon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IGP</title>
+      <link>https://malmans2.github.io/project/igp/</link>
+      <pubDate>Sat, 24 Oct 2020 20:51:56 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/igp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OceanSpy</title>
+      <link>https://malmans2.github.io/project/oceanspy/</link>
+      <pubDate>Sat, 24 Oct 2020 20:51:53 +0100</pubDate>
+      <guid>https://malmans2.github.io/project/oceanspy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lateral redistribution of heat and salt in the Nordic Seas</title>
+      <link>https://malmans2.github.io/publication/spallsubm/</link>
+      <pubDate>Sat, 24 Oct 2020 19:41:46 +0100</pubDate>
+      <guid>https://malmans2.github.io/publication/spallsubm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Is Computational Oceanography Coming of Age?</title>
+      <link>https://malmans2.github.io/publication/hainesubm/</link>
+      <pubDate>Sat, 24 Oct 2020 19:41:40 +0100</pubDate>
+      <guid>https://malmans2.github.io/publication/hainesubm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coastal Trapped Waves and other subinertial variability along the Southeast Greenland Coast in a realistic numerical simulation</title>
+      <link>https://malmans2.github.io/publication/gelderloossubm/</link>
+      <pubDate>Sat, 24 Oct 2020 19:41:35 +0100</pubDate>
+      <guid>https://malmans2.github.io/publication/gelderloossubm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://malmans2.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
