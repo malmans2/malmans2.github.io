@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Publication_types | Mattia Almansi</title>
-    <link>https://malmans2.github.io/publication_types/</link>
-      <atom:link href="https://malmans2.github.io/publication_types/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publication_types</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 19:41:46 +0100</lastBuildDate>
-    <image>
-      <url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url>
-      <title>Publication_types</title>
-      <link>https://malmans2.github.io/publication_types/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Publication_types | Mattia Almansi</title><link>https://malmans2.github.io/publication_types/</link><atom:link href="https://malmans2.github.io/publication_types/index.xml" rel="self" type="application/rss+xml"/><description>Publication_types</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 19:41:46 +0100</lastBuildDate><image><url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url><title>Publication_types</title><link>https://malmans2.github.io/publication_types/</link></image></channel></rss>
