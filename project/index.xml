@@ -5,12 +5,20 @@
     <link>https://malmans2.github.io/project/</link>
       <atom:link href="https://malmans2.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 24 Oct 2020 21:19:07 +0100</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://malmans2.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>cf_xarray</title>
+      <link>https://malmans2.github.io/project/cf_xarray/</link>
+      <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/project/cf_xarray/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>JMMP</title>
