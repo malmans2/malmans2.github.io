@@ -5,7 +5,7 @@
     <link>https://malmans2.github.io/</link>
       <atom:link href="https://malmans2.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Mattia Almansi</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url>
       <title>Mattia Almansi</title>
@@ -13,7 +13,15 @@
     </image>
     
     <item>
-      <title>cf_xarray</title>
+      <title></title>
+      <link>https://malmans2.github.io/project/gsridge36z/</link>
+      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://malmans2.github.io/project/gsridge36z/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cf-xarray</title>
       <link>https://malmans2.github.io/project/cf_xarray/</link>
       <pubDate>Thu, 15 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://malmans2.github.io/project/cf_xarray/</guid>

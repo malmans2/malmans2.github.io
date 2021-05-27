@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Mattia Almansi</title>
-    <link>https://malmans2.github.io/project/</link>
-      <atom:link href="https://malmans2.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 26 May 2021 00:00:00 +0000</lastBuildDate>
+    <title>project | Mattia Almansi</title>
+    <link>https://malmans2.github.io/tag/project/</link>
+      <atom:link href="https://malmans2.github.io/tag/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>project</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://malmans2.github.io/media/icon_huf535aa0a824718d030815ecc006da758_47664_512x512_fill_lanczos_center_2.png</url>
-      <title>Projects</title>
-      <link>https://malmans2.github.io/project/</link>
+      <title>project</title>
+      <link>https://malmans2.github.io/tag/project/</link>
     </image>
-    
-    <item>
-      <title></title>
-      <link>https://malmans2.github.io/project/gsridge36z/</link>
-      <pubDate>Wed, 26 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://malmans2.github.io/project/gsridge36z/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>cf-xarray</title>
